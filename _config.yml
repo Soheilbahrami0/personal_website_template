@@ -112,7 +112,7 @@ author:
   bio              : I'm a student.
   location         : "تهران"
   email            : msoheilb13@gmail.com
-  twitter: sauleh_e
+  twitter:
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
   github: Soheilbahrami0
@@ -137,7 +137,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/msoheilb00"
 
 # Site Footer
 footer:
