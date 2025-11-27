@@ -9,7 +9,6 @@ comments: false
 ---
 
 
-#* [BJJ](http://www.bjjheros.com/)
 * [footbal]
 * [gym]
 * [driving]
