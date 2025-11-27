@@ -11,11 +11,9 @@ comments: false
 
 # ekhteshash
 
-werwe
-rwe
 
 ## Tehran
-lsdfksd
+آلودگی
 
 ### Azadi
 ### Enghelab
@@ -26,8 +24,6 @@ lsdfksd
 My favorite website is [yahoo](http://www.yahoo.com).
 
 
-## Esfahan
-ldkfjs
 
 ![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
 
